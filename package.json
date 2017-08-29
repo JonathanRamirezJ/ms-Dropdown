@@ -1,0 +1,18 @@
+{
+  "name": "ms-dropdown",
+  "version": "3.5.2",
+  "description": "JavaScript image dropdown",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanramirezj/ms-Dropdown.git"
+  },
+  "author": "marghoobsuleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanramirezj/ms-Dropdown/issues"
+  },
+  "homepage": "http://www.marghoobsuleman.com/jquery-image-dropdown"
+}
